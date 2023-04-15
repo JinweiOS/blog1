@@ -1,0 +1,17 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "",
+  "bornDate": "2023/4/15",
+  "scripts": {
+    "test": "echo hello",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "author": "JINWEI PENG",
+  "license": "MIT",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.65"
+  }
+}
